@@ -12,6 +12,7 @@
 
 # 📖作業連結
 
-+  [作業零](https://youtu.be/xzcWlx-QmZ0)
-+  作業一
++  [作業零](http://youtu.be/xzcWlx-QmZ0)
++  ![作業一](https://github.com/linixian/112-1-DB/blob/main/截圖%202023-09-21%20下午6.55.16.png)
++  
 # 專題連結
